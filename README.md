@@ -22,8 +22,16 @@ Creando Aplicaciones en contenedores:
 ![Aplicacion en contenedor](Imgs/Imagen9.png)
 ![Aplicacion en contenedor](Imgs/Imagen10.png)
 
+Ejercicio 1:
+
 ![.yaml](Imgs/Imagen11.png)
+![Despliegue Aplicacion](Imgs/Imagen14.png)
+
+Ejercicio 2:
+
+![.yaml](Imgs/Imagen13.png)
 ![Despliegue Aplicacion](Imgs/Imagen12.png)
+
 
 ## Crear imágenes propias
 
