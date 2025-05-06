@@ -1,4 +1,29 @@
+# Universidad de la Sabana
+## Diseño y Arquitectura de Software
+### Jorge Esteban Diaz Bernal, Laura Camila Rodriguez Leon, Juan Diego Martinez Escobar
+
 # Taller de Docker
+
+### Evidencias:
+
+Primer Docker file:
+
+![Primer Docker file](Imgs/Imagen1.png) 
+
+Creando Aplicaciones en contenedores:
+
+![Crear Aplicacion en Contenedor](Imgs/Imagen2.png)
+![Aplicacion en contenedor](Imgs/Imagen3.png)
+![Aplicacion en contenedor](Imgs/Imagen4.png)
+![Aplicacion en contenedor](Imgs/Imagen5.png)
+![Aplicacion en contenedor](Imgs/Imagen6.png)
+![Aplicacion en contenedor](Imgs/Imagen7.png)
+![Aplicacion en contenedor](Imgs/Imagen8.png)
+![Aplicacion en contenedor](Imgs/Imagen9.png)
+![Aplicacion en contenedor](Imgs/Imagen10.png)
+
+![.yaml](Imgs/Imagen11.png)
+![Despliegue Aplicacion](Imgs/Imagen12.png)
 
 ## Crear imágenes propias
 
